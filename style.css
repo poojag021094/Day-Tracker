@@ -22,3 +22,15 @@ body{
   left: 30px;
   font-size: 22px;
 }
+.clear{
+  clear: both;
+}
+#message{
+  padding: 50px;
+  font-size: 40px;
+  background: #16A085;
+  color: #f6f8f8;
+  text-shadow: -3px 3px 0 rgba(0,0,0,0.3);
+	box-shadow: 0 3px 0 rgba(0,0,0,0.3);
+
+}
