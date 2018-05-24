@@ -10,4 +10,6 @@ $(document).ready(function(){
             "Thirsty, Thursday! Yo!",
             "t's Friday! We should be kickin' it!",
             "Paaarrrttyyyyy!"]
+      $('#' + day).attr('id','today');
+      $('#message').text(msg[day]);
 });
